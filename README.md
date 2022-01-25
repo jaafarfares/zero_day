@@ -1,1 +1,1 @@
-**Strong** __This file is mandatory in projects__
+**Strong** __This file is mandatory in all School projects__
